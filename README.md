@@ -1,6 +1,6 @@
 # Jeu du lancé de Boulet de Canon
 
-![image du projet](https://ibb.co/YdV5NKh)
+![image du projet](https://i.ibb.co/B6Yhf7B/Jeu-Boulet-Canon.png)
 
 ## Installation
 
