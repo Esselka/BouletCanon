@@ -15,6 +15,10 @@ npx live-server
 
 Enjoy !
 
+## Developers
+
+[Documentation](https://github.com/Esselka/BouletCanon/blob/master/docs/index.md)
+
 # @TODO !
 
 - Improve user experience adding some infos when a require fails.
