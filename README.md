@@ -15,6 +15,8 @@ npx live-server
 
 Enjoy !
 
+:arrow_forward: Smart Contract deployed on ***Kovan's testnet*** :bangbang:
+
 ## Developers
 
 [Documentation](https://github.com/Esselka/BouletCanon/blob/master/docs/index.md)
